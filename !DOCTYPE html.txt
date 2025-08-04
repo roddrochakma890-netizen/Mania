@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mutation Top Up</title>
+  <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="bg-gray-100 text-gray-900">
+  <header class="bg-red-600 text-white p-4 text-center text-2xl font-bold">
+    Mutation Top Up
+  </header>
+
+  <main class="max-w-4xl mx-auto p-6">
+    <h2 class="text-xl font-semibold mb-4">Free Fire Diamond Top Up</h2>
+    <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
+      <div class="bg-white p-4 rounded shadow">100 Diamonds - ৳79</div>
+      <div class="bg-white p-4 rounded shadow">115 Diamonds - ৳83</div>
+      <div class="bg-white p-4 rounded shadow">200 Diamonds - ৳153</div>
+      <div class="bg-white p-4 rounded shadow">240 Diamonds - ৳159</div>
+      <div class="bg-white p-4 rounded shadow">300 Diamonds - ৳230</div>
+      <div class="bg-white p-4 rounded shadow">355 Diamonds - ৳237</div>
+      <div class="bg-white p-4 rounded shadow">480 Diamonds - ৳313</div>
+      <div class="bg-white p-4 rounded shadow">505 Diamonds - ৳340</div>
+      <div class="bg-white p-4 rounded shadow">610 Diamonds - ৳395</div>
+      <div class="bg-white p-4 rounded shadow">725 Diamonds - ৳470</div>
+      <div class="bg-white p-4 rounded shadow">850 Diamonds - ৳550</div>
+      <div class="bg-white p-4 rounded shadow">1090 Diamonds - ৳705</div>
+      <div class="bg-white p-4 rounded shadow">1240 Diamonds - ৳780</div>
+      <div class="bg-white p-4 rounded shadow">1850 Diamonds - ৳1,170</div>
+      <div class="bg-white p-4 rounded shadow">2530 Diamonds - ৳1,555</div>
+      <div class="bg-white p-4 rounded shadow">3770 Diamonds - ৳2,330</div>
+      <div class="bg-white p-4 rounded shadow">5060 Diamonds - ৳3,105</div>
+      <div class="bg-white p-4 rounded shadow">7590 Diamonds - ৳4,655</div>
+      <div class="bg-white p-4 rounded shadow">10120 Diamonds - ৳8,205</div>
+      <div class="bg-white p-4 rounded shadow">12650 Diamonds - ৳7,755</div>
+      <div class="bg-white p-4 rounded shadow">Level Up Pass - ৳400</div>
+      <div class="bg-white p-4 rounded shadow">Weekly Membership - ৳160</div>
+      <div class="bg-white p-4 rounded shadow">Weekly Lite - ৳45</div>
+      <div class="bg-white p-4 rounded shadow">Monthly Membership - ৳775</div>
+      <div class="bg-white p-4 rounded shadow">Weekly and Monthly - ৳930</div>
+      <div class="bg-white p-4 rounded shadow">Evo Access 3D - ৳75</div>
+      <div class="bg-white p-4 rounded shadow">Evo Access 7D - ৳105</div>
+      <div class="bg-white p-4 rounded shadow">Evo Access 30D - ৳305</div>
+    </div>
+
+    <div class="mt-8 p-4 bg-yellow-100 border border-yellow-400 rounded">
+      <h3 class="font-semibold">Payment Info:</h3>
+      <p>Nagad Number: <strong>01625218860</strong></p>
+      <p>After payment, send confirmation to our Facebook:</p>
+      <a href="https://www.facebook.com/profile.php?id=61578351105109" class="text-blue-600 underline">Contact on Facebook</a>
+    </div>
+
+    <div class="mt-6 bg-white p-6 rounded shadow">
+      <h3 class="text-lg font-semibold mb-2">Submit Payment</h3>
+      <p class="mb-2 text-sm text-gray-700">Please pay to <strong>01625218860 (Nagad)</strong>, then select your package and enter your transaction number below.</p>
+
+      <form action="https://formsubmit.co/roddrochakma890@gmail.com" method="POST" class="space-y-4">
+        <input type="hidden" name="_captcha" value="false">
+        <input type="hidden" name="_template" value="table">
+        <input type="hidden" name="_next" value="https://example.com/thank-you.html">
+
+        <label class="block text-sm font-medium">Select Package:</label>
+        <select name="package" class="w-full p-2 border border-gray-300 rounded" required>
+          <option value="">-- Choose a Package --</option>
+          <option value="100 Diamonds">100 Diamonds - ৳79</option>
+          <option value="115 Diamonds">115 Diamonds - ৳83</option>
+          <option value="200 Diamonds">200 Diamonds - ৳153</option>
+          <option value="240 Diamonds">240 Diamonds - ৳159</option>
+          <option value="300 Diamonds">300 Diamonds - ৳230</option>
+          <option value="355 Diamonds">355 Diamonds - ৳237</option>
+          <option value="480 Diamonds">480 Diamonds - ৳313</option>
+          <option value="505 Diamonds">505 Diamonds - ৳340</option>
+          <option value="610 Diamonds">610 Diamonds - ৳395</option>
+          <option value="725 Diamonds">725 Diamonds - ৳470</option>
+          <option value="850 Diamonds">850 Diamonds - ৳550</option>
+          <option value="1090 Diamonds">1090 Diamonds - ৳705</option>
+          <option value="1240 Diamonds">1240 Diamonds - ৳780</option>
+          <option value="1850 Diamonds">1850 Diamonds - ৳1,170</option>
+          <option value="2530 Diamonds">2530 Diamonds - ৳1,555</option>
+          <option value="3770 Diamonds">3770 Diamonds - ৳2,330</option>
+          <option value="5060 Diamonds">5060 Diamonds - ৳3,105</option>
+          <option value="7590 Diamonds">7590 Diamonds - ৳4,655</option>
+          <option value="10120 Diamonds">10120 Diamonds - ৳8,205</option>
+          <option value="12650 Diamonds">12650 Diamonds - ৳7,755</option>
+          <option value="Level Up Pass">Level Up Pass - ৳400</option>
+          <option value="Weekly Membership">Weekly Membership - ৳160</option>
+          <option value="Weekly Lite">Weekly Lite - ৳45</option>
+          <option value="Monthly Membership">Monthly Membership - ৳775</option>
+          <option value="Weekly and Monthly">Weekly and Monthly - ৳930</option>
+          <option value="Evo Access 3D">Evo Access 3D - ৳75</option>
+          <option value="Evo Access 7D">Evo Access 7D - ৳105</option>
+          <option value="Evo Access 30D">Evo Access 30D - ৳305</option>
+        </select>
+
+        <label class="block text-sm font-medium">Transaction Number:</label>
+        <input type="text" name="transactionId" class="w-full p-2 border border-gray-300 rounded" required>
+
+        <button type="submit" class="bg-green-500 text-white px-4 py-2 rounded hover:bg-green-600">Submit</button>
+        <p class="mt-4 text-green-600 font-semibold">Thank you for your purchase! You will receive your diamonds within 24 hours.</p>
+      </form>
+    </div>
+  </main>
+
+  <footer class="text-center p-4 bg-gray-200 mt-8">
+    &copy; 2025 Mutation Top Up. All rights reserved.
+  </footer>
+</body>
+</html>
